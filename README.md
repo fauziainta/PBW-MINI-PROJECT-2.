@@ -60,7 +60,8 @@ Menampilkan pengalaman dalam bentuk card grid:
 
 Menampilkan sosial media dan email serta footer:
 
-<img width="1892" height="506" alt="image" src="https://github.com/user-attachments/assets/b99b5d96-faf7-4ddd-9509-c06c8161be99" />
+<img width="1899" height="509" alt="image" src="https://github.com/user-attachments/assets/8959e2e9-a3c2-4f46-b362-3124a80ae7c6" />
+
 
 # B. Penjelasan Kode
 ## 1. Navbar
