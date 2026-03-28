@@ -1,6 +1,21 @@
 # PBW-MINI-PROJECT-2
 ## Fauzia Inanta Aurelia/ 2409116044/ Sistem Informasi (B)
 
+Website ini dikembangkan dari versi sebelumnya yang menggunakan Vue JS, kemudian diubah menjadi dinamis menggunakan PHP dan MySQL agar data dapat dikelola melalui database.
+
+Struktur folder:
+
+     images/
+          fashion.jpg
+          Profile Image.jpg
+          mua.jpg
+          photographer.jpg
+      index.php
+      koneksi.php
+      style.css
+    
+
+
 # A. Tampilan Section/Fitur
 ## 1. Navbar
 Menampilkan navigasi utama untuk berpindah ke setiap section: Home, About Me, Experience, dan     Contact.
@@ -152,9 +167,11 @@ Mengambil data:
 
 Perulangan data menggunakan:
 
-     while($data = $result->fetch_assoc())
+     while($edu = $education->fetch_assoc())
+     while($skill = $skills->fetch_assoc())
+     while($exp = $experiences->fetch_assoc())
 
-7. Penjelasan Styling (CSS)
+## 7. Penjelasan Styling (CSS)
 
 Hero Title Font
 
@@ -199,12 +216,13 @@ Override warna khusus pada section contact.
 3. `Bootstrap 5`
 4. `PHP (Native)`
 5. `Google Fonts`
-6. `MySQL Database`
+6. `Bootstrap Icons (CDN)`
+7. `MySQL Database`
 
 # D. Fitur Utama
 
 1. `Responsive Design (Bootstrap Grid System)`
-2. `Dynamic Data Rendering (Vue JS)`
+2. `Dynamic Data Rendering (PHP + MySQL)`
 3. `Progress Bar Skills (Dynamic dari Database)`
 4. `Experience Card Layout (Looping Data)`
 5. `Custom Font dari Google Fonts`
