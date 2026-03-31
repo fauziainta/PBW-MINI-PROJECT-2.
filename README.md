@@ -154,6 +154,28 @@ Sosial media ditampilkan dalam bentuk button:
 ## 6. PHP & Database (Data Dinamis)
 
 Website menggunakan PHP dan MySQL untuk mengambil data secara dinamis.
+Database Portofolio:
+
+<img width="1205" height="262" alt="image" src="https://github.com/user-attachments/assets/27dbd2ea-35d0-463d-927d-f9000984c882" />
+
+a. Table user:
+
+<img width="1621" height="94" alt="image" src="https://github.com/user-attachments/assets/b5d010b8-c574-4bce-b2fd-d254d319b9cb" />
+
+b. Table education:
+
+<img width="1622" height="127" alt="image" src="https://github.com/user-attachments/assets/1e29a3c3-2847-490b-884f-96f47af018b4" />
+
+c. Table experiences:
+
+<img width="1630" height="173" alt="image" src="https://github.com/user-attachments/assets/59ccaf1f-0610-4b55-a990-4c1822c7634b" />
+
+
+d. Table skills:
+
+<img width="1630" height="221" alt="image" src="https://github.com/user-attachments/assets/0d579dde-8749-45ac-af1a-f41ad35e6643" />
+
+
 
 Koneksi database:
 
